@@ -1,0 +1,42 @@
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color:rgb(229, 135, 135);
+    /* margin: 30px; */
+}
+
+
+/* .menu-container {
+    margin-left: auto;
+    margin-right: auto; */
+    /* background-color: rgb(209, 202, 202); */
+/* } */
+
+.thumbnail {
+    width: auto;    
+    height: 220px;
+}
+
+.block-container {
+    display: inline-block;
+    
+    margin-right: 110px;
+    margin-bottom: 20px; 
+    width: 250px;
+    height: 250px;       
+    /* background-color: rgb(209, 202, 202); */
+    /* align-content: center; */
+}
+
+.foot-container{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+    
+    text-align: center;
+}
